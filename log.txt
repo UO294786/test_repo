@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-file fixed
-=======
-hello
->>>>>>> 9a42767... test commit
+File fixed
